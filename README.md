@@ -7,7 +7,7 @@ This project was built for a client, Valley Installers. This website elegantly h
 - Footer 
 - Home Page
 - Galley
-- Deployment via Zeit
+- Live Deployment via Zeit
 
 ## Lillian's Portion
 - Created wireframes for the clients
