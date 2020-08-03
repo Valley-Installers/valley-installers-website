@@ -1,12 +1,7 @@
-# valley-installers-website
+# Valley Installers Website
 
-This project was built for a client, Valley Installers.
+This project was built for a client, Valley Installers. This website elegantly highlights the work that Valley Installers offers their clients.
 
-## Instructions for bringing it on your local machine
-
-1. Clone this repo
-2. npm install
-3. npm start
 
 ## Available Scripts
 In the project directory, you can run:
