@@ -1,23 +1,36 @@
 # Valley Installers Website
 
-This project was built for a client, Valley Installers. This website elegantly highlights the work that Valley Installers offers their clients.
+This project was built for a client, Valley Installers. This website elegantly highlights the work that Valley Installers offers their clients. 
+
+# Natalie's Portion
+- Created wireframes for the clients
+- Footer 
+- Home Page
+- Galley
+- Deployment via Zeit
+
+# Lillian's Portions
+- Created wireframes for the clients
+- Navigation Bar
+- About us Page
+- Setup Next.js
 
 
 ## Available Scripts
 In the project directory, you can run:
 
-npm start
+### npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-npm test
+### npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+### npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -26,7 +39,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+### npm run eject
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
