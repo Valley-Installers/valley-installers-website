@@ -2,14 +2,14 @@
 
 This project was built for a client, Valley Installers. This website elegantly highlights the work that Valley Installers offers their clients. 
 
-# Natalie's Portion
+## Natalie's Portion
 - Created wireframes for the clients
 - Footer 
 - Home Page
 - Galley
 - Deployment via Zeit
 
-# Lillian's Portions
+## Lillian's Portion
 - Created wireframes for the clients
 - Navigation Bar
 - About us Page
